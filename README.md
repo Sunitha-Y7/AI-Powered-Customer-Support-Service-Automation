@@ -125,19 +125,7 @@ Customer Support Dashboard includes
 
 # 📸 Project Screenshots
 
-> Add screenshots here after uploading them.
-
-Example:
-
-- Home Page
-- Customer Object
-- Merchandise Object
-- Orders Object
-- User Cases
-- Flow
-- Prompt Builder
-- Dashboard
-- Reports
+Check All Images PDF Once.
 
 ---
 
