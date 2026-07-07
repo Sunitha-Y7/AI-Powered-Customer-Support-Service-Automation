@@ -129,12 +129,6 @@ All Outputs PDF Link Here : " https://drive.google.com/file/d/1tgF2KZJtGxShCNdGa
 
 ---
 
-# 🎥 Demo Video
-
-Demo Video Link
-
----
-
 # 📄 Documentation
 
 Documentation PDF Link Here : " https://drive.google.com/file/d/1weI5dPjaB5JhNe-WN7cm-Mi_DrWGbCQb/view?usp=sharing ".
