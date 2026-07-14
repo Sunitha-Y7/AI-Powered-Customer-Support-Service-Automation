@@ -125,13 +125,13 @@ Customer Support Dashboard includes
 
 # 📸 Project Screenshots
 
-All Outputs PDF Link Here : " https://drive.google.com/file/d/1tgF2KZJtGxShCNdGaBdwQslFfSm3NoBe/view?usp=sharing ". 
+All Outputs PDF Link Here : " https://drive.google.com/file/d/15fhEDpcVP7zzSvI3cBJlJMGHykMpUMYQ/view?usp=sharing ". 
 
 ---
 
 # 📄 Documentation
 
-Documentation PDF Link Here : " https://drive.google.com/file/d/1weI5dPjaB5JhNe-WN7cm-Mi_DrWGbCQb/view?usp=sharing ".
+Documentation PDF Link Here : " https://drive.google.com/file/d/15fhEDpcVP7zzSvI3cBJlJMGHykMpUMYQ/view?usp=sharing ".
 
 ---
 
