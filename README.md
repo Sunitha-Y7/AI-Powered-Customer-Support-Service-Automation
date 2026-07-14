@@ -138,9 +138,10 @@ Documentation PDF Link Here : " https://drive.google.com/file/d/1weI5dPjaB5JhNe-
 # 👩‍💻 Developed By
 
 **Team Lead : Yerra Sunitha**
-  Team Members : Akula Teja Sri
-                 Lokeswari Ramadi
-                 Mani Purna Lahari Nunna
+
+  Team Members : Akula Teja Sri , 
+                 Lokeswari Ramadi , 
+                 Mani Purna Lahari Nunna , 
                  Rahul Dharmaarjun Kumar Kakileti
 
 B.Tech Students
