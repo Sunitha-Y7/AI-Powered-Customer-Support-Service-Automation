@@ -137,9 +137,13 @@ Documentation PDF Link Here : " https://drive.google.com/file/d/1weI5dPjaB5JhNe-
 
 # 👩‍💻 Developed By
 
-**Yerra Sunitha**
+**Team Lead : Yerra Sunitha**
+  Team Members : Akula Teja Sri
+                 Lokeswari Ramadi
+                 Mani Purna Lahari Nunna
+                 Rahul Dharmaarjun Kumar Kakileti
 
-B.Tech Student
+B.Tech Students
 
 Salesforce Developer Project
 
